@@ -16,7 +16,7 @@ public class Giocatore {
 	}
 
 	public void setCfu(int cfu) {
-		this.cfu = cfu;
+		this.cfu = cfu;		
 	}
 
 	public Borsa getBorsa() {
@@ -25,6 +25,7 @@ public class Giocatore {
 
 	public void setBorsa(Borsa borsa) {
 		this.borsa = borsa;
-	}
-
+	}	
+	
+	
 }
